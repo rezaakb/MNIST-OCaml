@@ -7,7 +7,11 @@ This project involves the development of a basic neural network from scratch, im
 ## Getting Started
 Ensure that OCaml is installed on your machine. If you haven't installed it yet, follow the detailed installation instructions available [here](https://gowthamk.github.io/csci7000_pfp_s23/resources/).
 
-## Usage
+### Dataset Setup
+- Download the MNIST dataset [here](https://drive.google.com/file/d/1OybjWb-8KmQ7cdopfjRhtMuPOj9We4HG/view?usp=sharing).
+- Extract and move the dataset to the `data/` folder.
+
+### Usage
 The primary implementation and usage details are provided in the `main.ipynb` Jupyter notebook. Follow the steps and code snippets in the notebook for a comprehensive guide on how to train and evaluate the neural network using the MNIST dataset.
 
 ## License
